@@ -1,0 +1,32 @@
+10:16:27.851 [main] INFO  api.test.UserTests - -------------Creating new User---------
+10:16:28.131 [main] INFO  api.test.UserTests - -------------Created new User---------
+10:16:28.133 [main] INFO  api.test.UserTests - -------------Get User Details---------
+10:16:28.383 [main] INFO  api.test.UserTests - -------------Got User Details---------
+10:16:28.385 [main] INFO  api.test.UserTests - -------------Updating User Details---------
+10:16:28.648 [main] INFO  api.test.UserTests - -------------Updated User Details---------
+10:16:28.650 [main] INFO  api.test.UserTests - -------------Deleting Details---------
+10:16:28.909 [main] INFO  api.test.UserTests - -------------Deleted User Details---------
+11:01:22.244 [main] INFO  api.test.UserTests2 - -------------Creating new User---------
+11:01:24.093 [main] INFO  api.test.UserTests2 - -------------Created new User---------
+11:01:24.106 [main] INFO  api.test.UserTests2 - -------------Get User Details---------
+11:01:24.951 [main] INFO  api.test.UserTests2 - -------------Got User Details---------
+11:01:24.953 [main] INFO  api.test.UserTests2 - -------------Updating User Details---------
+11:01:25.218 [main] INFO  api.test.UserTests2 - -------------Updated User Details---------
+11:01:25.220 [main] INFO  api.test.UserTests2 - -------------Deleting Details---------
+11:01:25.482 [main] INFO  api.test.UserTests2 - -------------Deleted User Details---------
+11:36:52.993 [main] INFO  api.test.UserTests2 - -------------Creating new User---------
+11:36:54.671 [main] INFO  api.test.UserTests2 - -------------Created new User---------
+11:36:54.683 [main] INFO  api.test.UserTests2 - -------------Get User Details---------
+11:36:54.964 [main] INFO  api.test.UserTests2 - -------------Got User Details---------
+11:36:54.965 [main] INFO  api.test.UserTests2 - -------------Updating User Details---------
+11:36:55.232 [main] INFO  api.test.UserTests2 - -------------Updated User Details---------
+11:36:55.233 [main] INFO  api.test.UserTests2 - -------------Deleting Details---------
+11:36:55.496 [main] INFO  api.test.UserTests2 - -------------Deleted User Details---------
+11:58:51.039 [main] INFO  api.test.UserTests2 - -------------Creating new User---------
+11:58:52.799 [main] INFO  api.test.UserTests2 - -------------Created new User---------
+11:58:52.809 [main] INFO  api.test.UserTests2 - -------------Get User Details---------
+11:58:53.088 [main] INFO  api.test.UserTests2 - -------------Got User Details---------
+11:58:53.090 [main] INFO  api.test.UserTests2 - -------------Updating User Details---------
+11:58:53.351 [main] INFO  api.test.UserTests2 - -------------Updated User Details---------
+11:58:53.353 [main] INFO  api.test.UserTests2 - -------------Deleting Details---------
+11:58:53.608 [main] INFO  api.test.UserTests2 - -------------Deleted User Details---------
